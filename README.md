@@ -1,7 +1,7 @@
 # Gerenciador de Shopping - Laboratório I
 
 Descrição do Projeto
-Este projeto é um sistema de gerenciamento de lojas e produtos, permitindo a criação de lojas, produtos e a verificação de informações relacionadas a eles. O sistema é estruturado em várias classes que representam diferentes entidades, como Loja, Produto, Endereco, e outras.
+Este projeto é um sistema de gerenciamento de shopping, permitindo a criação de lojas, produtos e a verificação de informações relacionadas a eles. O sistema é estruturado em várias classes que representam diferentes entidades, como Loja, Produto, Endereco, e outras.
 
 Estrutura do Projeto
 O projeto é composto pelas seguintes classes principais:
