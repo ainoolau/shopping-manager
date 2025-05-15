@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Shopping
+comment1.params=nome\ endereco\ quantidadeMaximaLojas
+comment1.target=Shopping(java.lang.String,\ Endereco,\ int)
+comment10.params=tipoLoja
+comment10.target=int\ quantidadeLojasPorTipo(java.lang.String)
+comment11.params=
+comment11.target=Informatica\ lojaSeguroMaisCaro()
+comment12.params=
+comment12.target=java.lang.String\ toString()
+comment2.params=
+comment2.target=java.lang.String\ getNome()
+comment3.params=
+comment3.target=Endereco\ getEndereco()
+comment4.params=
+comment4.target=Loja[]\ getLojas()
+comment5.params=nome
+comment5.target=void\ setNome(java.lang.String)
+comment6.params=endereco
+comment6.target=void\ setEndereco(Endereco)
+comment7.params=lojas
+comment7.target=void\ setLojas(Loja[])
+comment8.params=loja
+comment8.target=boolean\ insereLoja(Loja)
+comment9.params=nomeLoja
+comment9.target=boolean\ removeLoja(java.lang.String)
+numComments=13
