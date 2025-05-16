@@ -1,0 +1,4 @@
+# Ignorar arquivos do BlueJ
+*.class
+*.txt
+package.bluej
